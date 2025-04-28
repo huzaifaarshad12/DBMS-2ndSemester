@@ -1,0 +1,6 @@
+D:\2nd smester\Oop\app\Dll\Dll\bin\Debug\Dll.dll
+D:\2nd smester\Oop\app\Dll\Dll\bin\Debug\Dll.pdb
+D:\2nd smester\Oop\app\Dll\Dll\obj\Debug\Dll.csproj.AssemblyReference.cache
+D:\2nd smester\Oop\app\Dll\Dll\obj\Debug\Dll.csproj.CoreCompileInputs.cache
+D:\2nd smester\Oop\app\Dll\Dll\obj\Debug\Dll.dll
+D:\2nd smester\Oop\app\Dll\Dll\obj\Debug\Dll.pdb
